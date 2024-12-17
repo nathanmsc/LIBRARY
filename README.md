@@ -223,7 +223,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [HTML5_e_CSS3_com_farinha_e_pimenta](https://github.com/free-educa/books/blob/main/books/HTML5_e_CSS3_com_farinha_e_pimenta.pdf)
 
-- [Html5_e_css3_domine_a_web_do_futuro_fran (1)](<https://github.com/free-educa/books/blob/main/books/Html5_e_css3_domine_a_web_do_futuro_fran%20(1).pdf>)
+- [Html5_e_css3_domine_a_web_do_futuro_fran](<https://github.com/free-educa/books/blob/main/books/Html5_e_css3_domine_a_web_do_futuro_fran%20(1).pdf>)
 
 - [html5 e css3 domine a web do futuro](https://github.com/free-educa/books/blob/main/books/html5%20e%20css3%20domine%20a%20web%20do%20futuro%20-%20Casa%20do%20Codigo.pdf)
 
